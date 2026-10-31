@@ -5,3 +5,8 @@ B C
 D A
 E B
 C E
+E F
+F G
+G H
+H F
+I H
